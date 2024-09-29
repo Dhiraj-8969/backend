@@ -1,0 +1,8 @@
+.container {
+    padding: 10px;
+    max-width: 500px;
+    margin: 100px auto;
+    background-color: bisque;
+    color: black;
+    display: flex;
+}
